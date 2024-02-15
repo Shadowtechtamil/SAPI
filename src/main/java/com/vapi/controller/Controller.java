@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.vapi.entity.Videoinfo;
 import com.vapi.service.service;
 
-@CrossOrigin(origins = "https://localhost:3000/")
+@CrossOrigin(origins = "https://shadowtech.vercel.app/")
 @RestController
 public class Controller 
 {
