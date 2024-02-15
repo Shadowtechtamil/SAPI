@@ -1,0 +1,7 @@
+com\vapi\VapiApplication.class
+com\vapi\controller\Controller.class
+com\configurtion\WebConfig.class
+com\vapi\repo\Videorepo.class
+com\vapi\entity\Videoinfo.class
+com\vapi\service\service.class
+com\vapi\controller\AdminController.class
